@@ -7,11 +7,7 @@ The **Pixel Manipulation** module provides basic image processing and steganogra
 - Apply basic filters:
   - Grayscale
   - Invert colors
-  - Threshold (binary)
-- Embed and extract hidden messages in images (LSB steganography)
 - Export modified images in common formats
 
-### Example
-```python
-from tools.pixel_tool import invert_image, hide_message, extract_message
+
 
